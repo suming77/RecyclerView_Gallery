@@ -6,7 +6,7 @@
 
 
 #### Use
-1.activity.calss
+1.activity.calss 在activity设置
 ```Java
   LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false);
         mRecyclerView.setLayoutManager(linearLayoutManager);
@@ -18,7 +18,7 @@
 
         mCardScaleHelper.attachToRecyclerView(mRecyclerView);
 ```
-2.adapter
+2.在adapter相应位置设置
 ```Java
 
     @Override
