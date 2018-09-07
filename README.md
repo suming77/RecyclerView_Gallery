@@ -33,4 +33,4 @@
         mCardAdapterHelper.onBindViewHolder(holder.itemView, position, getItemCount());
     }
 ```
-"点击下载"[APK](http://example.com/) 
+"点击下载"[APK](https://github.com/FollowExcellence/RecyclerView_Gallery/blob/master/app-debug.apk) 
