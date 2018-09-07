@@ -5,7 +5,7 @@
 ![image](https://github.com/FollowExcellence/RecyclerView_Gallery/blob/master/GIF.gif)
 
 
-#### Use
+## Use
 1.activity.calss 在activity设置
 ```Java
   LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false);
