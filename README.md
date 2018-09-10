@@ -34,5 +34,5 @@
     }
 ```
 
-##APK下载
+## APK下载
 "点击下载"[APK](https://github.com/FollowExcellence/RecyclerView_Gallery/raw/master/app-debug.apk) 
